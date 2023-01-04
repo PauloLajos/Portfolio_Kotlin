@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d49ba53-ebf7-4e08-a0ec-49175d492a4c" name="Changes" comment="Chapter 02 - Mini-exercises">
+    <list default="true" id="5d49ba53-ebf7-4e08-a0ec-49175d492a4c" name="Changes" comment="Chapter 02 - Mini-exercises&#10;  04. extended it">
+      <change afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/challenges_02.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_02_04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_02_04.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/out/production/Portfolio_Kotlin/META-INF/Portfolio_Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/out/production/Portfolio_Kotlin/META-INF/Portfolio_Kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +30,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -53,17 +54,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/paulolajos/IdeaProjects/Portfolio_Kotlin/Book_Examples/Kotlin_Apprentice",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/paulolajos/IdeaProjects/Portfolio_Kotlin/Book_Examples/Kotlin_Apprentice&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice" />
@@ -92,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672811025924</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Chapter 02 - Mini-exercises&#10;  04. extended it">
+      <created>1672812665316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672812665316</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start learning Kotlin" />
     <MESSAGE value="Chapter 02 - Mini-exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 02 - Mini-exercises" />
+    <MESSAGE value="Chapter 02 - Mini-exercises&#10;  04. extended it" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 02 - Mini-exercises&#10;  04. extended it" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
