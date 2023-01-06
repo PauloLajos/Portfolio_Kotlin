@@ -1,3 +1,4 @@
+import kotlin.math.pow
 import kotlin.math.sqrt
 
 fun main() {
@@ -148,7 +149,7 @@ fun main() {
     val y1: Double = 3.0
     val x2: Double = 8.0
     val y2: Double = 12.0
-    val result = sqrt(Math.pow((x2 - x1), 2.0) + Math.pow((y2 - y1), 2.0))
+    val result = sqrt( (x2 - x1).pow(2) + (y2 - y1).pow(2) )
 
     println("the distance between these two points ($x1:$y1),($x2:$y2): ${String.format("%.2f", result)}")
     
