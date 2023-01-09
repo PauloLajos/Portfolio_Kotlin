@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d49ba53-ebf7-4e08-a0ec-49175d492a4c" name="Changes" comment="Chapter 02 - Challenges">
+    <list default="true" id="5d49ba53-ebf7-4e08-a0ec-49175d492a4c" name="Changes" comment="start Chapter 03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/challenges_02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/challenges_02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/out/production/Portfolio_Kotlin/META-INF/Portfolio_Kotlin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_challenges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_challenges.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672820215278</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Chapter 02 - Challenges">
+      <created>1673253963744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673253963744</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,8 +134,8 @@
     <MESSAGE value="Start learning Kotlin" />
     <MESSAGE value="Chapter 02 - Mini-exercises" />
     <MESSAGE value="Chapter 02 - Mini-exercises&#10;  04. extended it" />
-    <MESSAGE value="Chapter 02 - Challenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 02 - Challenges" />
+    <MESSAGE value="start Chapter 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="start Chapter 03" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

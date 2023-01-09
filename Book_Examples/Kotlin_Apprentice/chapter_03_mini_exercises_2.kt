@@ -6,11 +6,16 @@ fun main() {
         Also create a string constant called lastName and initialize it to your last name.
     */
 
+    val firstName = "Lajos"
+    val lastName  = "Paulo"
+
     /* ---------------------------------------------
         2.
         Create a string constant called fullName by adding the firstName and lastName constants together,
         separated by a space.
     */
+
+    val fullName = "$firstName $lastName"
 
     /* ---------------------------------------------
         3.
@@ -19,4 +24,6 @@ fun main() {
         For example, my string would read: "Hello, my name is Dick Lucas.".
     */
 
+    val myDetails = "Hello, my name is $fullName."
+    println(myDetails)
 }
