@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d49ba53-ebf7-4e08-a0ec-49175d492a4c" name="Changes" comment="start Chapter 03">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_challenges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_challenges.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023__01__06__6_42_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023__01__06__6_42__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/out/production/Portfolio_Kotlin/META-INF/Portfolio_Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/out/production/Portfolio_Kotlin/META-INF/Portfolio_Kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

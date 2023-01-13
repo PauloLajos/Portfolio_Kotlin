@@ -12,9 +12,11 @@ fun main() {
         Extract the values in the triple into three constants named month, day and year.
     */
 
-    val month   = date.first
-    val day     = date.second
-    val year    = date.third
+    // hotfix...................
+    // val month   = date.first
+    // val day     = date.second
+    // val year    = date.third
+    val (month, day, year) = date
     println("$year.${String.format("%02d", month)}.${String.format("%02d", day)}")
 
     /* ---------------------------------------------
