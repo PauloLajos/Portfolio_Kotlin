@@ -11,8 +11,10 @@ fun main() {
         Extract the values 2 and 3 from coordinates into two variables called row and column.
      */
 
-    val row = coordinates.first
-    val column = coordinates.second
+    // hotfix ......................
+    // val row = coordinates.first
+    // val column = coordinates.second
+    val (row, column) = coordinates
     println("row: $row, column: $column")
 
     /* ---------------------------------------------
