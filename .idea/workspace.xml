@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d49ba53-ebf7-4e08-a0ec-49175d492a4c" name="Changes" comment="update Chapter 03 - challenges 2., Pair()">
-      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_challenges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_challenges.kt" afterDir="false" />
+    <list default="true" id="5d49ba53-ebf7-4e08-a0ec-49175d492a4c" name="Changes" comment="start Chapter 03">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023__01__06__6_42_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023__01__06__6_42__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/chapter_03_mini_exercises_3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/out/production/Portfolio_Kotlin/META-INF/Portfolio_Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Book_Examples/Kotlin_Apprentice/out/production/Portfolio_Kotlin/META-INF/Portfolio_Kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +25,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -132,8 +135,7 @@
     <MESSAGE value="Chapter 02 - Mini-exercises" />
     <MESSAGE value="Chapter 02 - Mini-exercises&#10;  04. extended it" />
     <MESSAGE value="start Chapter 03" />
-    <MESSAGE value="update Chapter 03 - challenges 2., Pair()" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Chapter 03 - challenges 2., Pair()" />
+    <option name="LAST_COMMIT_MESSAGE" value="start Chapter 03" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
